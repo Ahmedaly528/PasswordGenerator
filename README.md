@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5ed7bbcc-725f-4ace-a51a-3ac2865fac64)# PasswordGenerator
+# PasswordGenerator
 A secure and user-friendly password generator web application built with Python and Django.
 Features
 ✨ Customizable Password Length: Choose a password length between 6 and 30 characters.
